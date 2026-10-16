@@ -1,7 +1,10 @@
 {
-  "name": "demo-app",
+  "name": "realtime-chat",
   "version": "1.0.0",
   "main": "app.js",
   "scripts": { "start": "node app.js" },
-  "dependencies": { "express": "^4.19.0" }
+  "dependencies": {
+    "express": "^4.19.0",
+    "socket.io": "^4.7.5"
+  }
 }
