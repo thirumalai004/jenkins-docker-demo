@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         IMAGE = "thirudocker004/demo-app"
-        APP_SERVER = "13.55.180.144"
+        APP_SERVER = "3.107.157.241"
     }
 
     stages {
